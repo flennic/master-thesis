@@ -1,0 +1,29 @@
+Error Train: 17.160711116087146
+Error Test: 16.26820686484959
+MSE Train: 294.49000600979696
+MSE Test: 264.65455459753923
+Accuracy Train: 0.19444444444444445
+Accuracy Test: 0.2972972972972973
+
+Estimated Bias: -1.5455638713158324
+
+Unbiased Error Test: 16.022632086202712
+Unbiased MSE Test: 256.72473896981273
+Unbiased Accuracy Test: 0.2972972972972973
+
+Max Size CV: Taken -> 144, cap -> 20000, available -> 144.
+Max Size Fit: Taken -> 144, cap -> 40000, available -> 144.
+Best Parameter: {'classifier__C': 0.5, 'classifier__epsilon': 1.0}
+
+
+
+# Estimates
+Unbiased Mean:			-1.7925651764531396
+Standard Deviation:		15.922042866980991
+95% Prediction Interval:	-32.99976919573588 to 29.414638842829604
+
+# Estimate from percentiles
+95% Prediction Interval:	-30.55170860972112 to 22.723823121338523
+
+# Pure PI
+95% Prediction Interval:	-31.20720401928274 to 31.20720401928274

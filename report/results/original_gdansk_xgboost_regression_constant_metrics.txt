@@ -1,0 +1,29 @@
+Error Train: 15.396803789570408
+Error Test: 15.39731780852079
+MSE Train: 237.06156693452965
+MSE Test: 237.07739569659145
+Accuracy Train: 0.2222222222222222
+Accuracy Test: 0.2972972972972973
+
+Estimated Bias: -0.03635219015457012
+
+Unbiased Error Test: 15.392136278029993
+Unbiased MSE Test: 236.91785920144702
+Unbiased Accuracy Test: 0.2972972972972973
+
+Max Size CV: Taken -> 6912, cap -> 20000, available -> 6912.
+Max Size Fit: Taken -> 6912, cap -> 40000, available -> 6912.
+Best Parameter: {'classifier__booster': 'dart', 'classifier__learning_rate': 0.6, 'classifier__max_depth': 2, 'classifier__n_estimators': 8, 'classifier__reg_lambda': 0.9}
+
+
+
+# Estimates
+Unbiased Mean:			-2.17602568596333
+Standard Deviation:		15.23754479617615
+95% Prediction Interval:	-32.041613486468584 to 27.68956211454192
+
+# Estimate from percentiles
+95% Prediction Interval:	-32.215483007130324 to 25.747036161723436
+
+# Pure PI
+95% Prediction Interval:	-29.865587800505253 to 29.865587800505253

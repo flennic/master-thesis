@@ -1,0 +1,15 @@
+main.*
+!main.pdf
+!main.tex
+
+notebooks/models/
+
+_minted-main
+*.zip
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+data/preprocessed/
+temp_model.save
+test.txt
+

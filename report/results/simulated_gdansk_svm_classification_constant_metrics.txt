@@ -1,0 +1,7 @@
+Accuracy Train: 0.33284722222222224
+Accuracy Test: 0.1545945945945946
+
+Max Size CV: Taken -> 20000, cap -> 20000, available -> 1382400.
+Max Size Fit: Taken -> 40000, cap -> 40000, available -> 1382400.
+Best Parameter: {'classifier__C': 0.9}
+

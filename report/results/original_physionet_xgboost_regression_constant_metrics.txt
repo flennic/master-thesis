@@ -1,0 +1,29 @@
+Error Train: 8.441196445016525
+Error Test: 10.090245091363965
+MSE Train: 71.25379742335961
+MSE Test: 101.81304600379458
+Accuracy Train: 0.44927953890489913
+Accuracy Test: 0.30451612903225805
+
+Estimated Bias: -0.04478388917377428
+
+Unbiased Error Test: 10.08781048559894
+Unbiased MSE Test: 101.76392039335991
+Unbiased Accuracy Test: 0.30709677419354836
+
+Max Size CV: Taken -> 80000, cap -> 80000, available -> 333120.
+Max Size Fit: Taken -> 160000, cap -> 160000, available -> 333120.
+Best Parameter: {'classifier__booster': 'gbtree', 'classifier__learning_rate': 0.6, 'classifier__max_depth': 8, 'classifier__n_estimators': 8, 'classifier__reg_lambda': 0.6}
+
+
+
+# Estimates
+Unbiased Mean:			-0.5260734799087688
+Standard Deviation:		10.07408393289914
+95% Prediction Interval:	-20.27127798839108 to 19.219131028573546
+
+# Estimate from percentiles
+95% Prediction Interval:	-18.653887295979324 to 17.799911093455496
+
+# Pure PI
+95% Prediction Interval:	-19.745204508482313 to 19.745204508482313

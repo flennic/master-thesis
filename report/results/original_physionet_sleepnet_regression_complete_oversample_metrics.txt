@@ -1,0 +1,30 @@
+Training Accuracy: 0.27633711507293357
+Validation Accuracy: 0.2532467532467532
+Test Accuracy: 0.3161290322580645
+
+Estimated Bias: -2.2403690814971924
+
+Unbiased Training Accuracy: 0.2909238249594814
+Unbiased Validation Accuracy: 0.2922077922077922
+Unbiased Test Accuracy: 0.2967741935483871
+
+
+
+# Estimates
+Unbiased Mean:			-3.823254108428955
+Standard Deviation:		14.645954132080078
+95% Prediction Interval:	-32.529324207305905 to 24.882815990447998
+
+# Estimate from percentiles
+95% Prediction Interval:	-28.21879377365112 to 22.714077281951937
+
+# Pure PI
+95% Prediction Interval:	-28.706070098876953 to 28.706070098876953
+
+Epochs: 40
+Learning Rate: 1e-06
+Batch Size: 1
+Side-Arm MLP: 32
+LSTM Hidden: 128
+Channels: 64
+Sampling: oversample

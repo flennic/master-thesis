@@ -1,0 +1,14 @@
+Training Accuracy: 0.23148148148148148
+Validation Accuracy: 0.19444444444444445
+Test Accuracy: 0.13513513513513514
+
+Estimated Bias: -1.1603009259259258
+
+
+Epochs: 40
+Learning Rate: 1e-06
+Batch Size: 512
+Side-Arm MLP: 128
+LSTM Hidden: 256
+Channels: 128
+Sampling: oversample
